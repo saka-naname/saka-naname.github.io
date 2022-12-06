@@ -1,0 +1,23 @@
+{
+    "baseURL": "https://sakanana.me",
+    "languageCode": "ja-jp",
+    "title": "sakanana.me",
+    "theme": "PaperMod",
+    
+    "params": {
+        "profileMode": {
+            "enabled": true,
+            "subtitle": "工事中 🔨"
+        },
+        "socialIcons": [
+            {
+                "name": "twitter",
+                "url": "https://twitter.com/naname_eis"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/saka-naname"
+            }
+        ]
+    }
+}
