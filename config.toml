@@ -1,0 +1,4 @@
+baseURL = 'https://sakanana.me'
+languageCode = 'ja-jp'
+title = 'My New Hugo Site'
+theme = 'PaperMod'
